@@ -1,0 +1,49 @@
+<div id='toolbar' class='group'>
+	<div class='maxWidth'>
+	<div class='large-12 columns'>
+
+		<span id='title'>
+			
+			<h1>{{localization.mainView.title}}</h1>
+		</span>
+		
+		<span id='right'>
+			<span id='clock'></span>
+		</span>
+
+	</div>
+	</div>
+</div>
+
+<div class='maxWidth'>
+	<div id='content' class='small-12 large-11 columns'>
+		<div class="row">
+      			<div class="large-12 columns">
+        			<h1>ARTIST NAME</h1>
+      			</div>
+    		</div>
+    
+    		<div class="row">
+      			<div class="large-12 columns">
+				<div class="panel">
+	        			<h3>TRACK NAME</h3>
+          				<img src="http://www.sailingscuttlebutt.com/wp-content/uploads/2014/03/cat.jpg"></img>
+
+	        			<div class="large-12">
+              					<a class="large-3 small-12">Album</a>
+              					<a class="large-9 small-12 ">ALBUM NAME</a>
+          				</div>
+
+          
+            				<div class="large-12 small-12 ">
+              					<a href="#" class="small button">Check</a>
+              					<a href="#" class="small alert button right">Next</a>
+           
+					</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
